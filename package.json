@@ -1,0 +1,21 @@
+{
+    "name": "pwshmatt-pwsh-theme",
+    "displayName": "PwshMatt Pwsh Theme",
+    "description": "Custom PowerShell theme by Matt Younger",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "PwshMatt Default Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/PwshMatt Default Theme-color-theme.json"
+            }
+        ]
+    }
+}
