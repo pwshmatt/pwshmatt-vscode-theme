@@ -1,8 +1,19 @@
 {
     "name": "pwshmatt-pwsh-theme",
     "displayName": "PwshMatt Pwsh Theme",
-    "description": "Custom PowerShell theme by Matt Younger",
+    "description": "Custom PowerShell theme by PwshMatt",
     "version": "0.0.1",
+    "publisher": "PwshMatt",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/pwshmatt/pwshmatt-vscode-theme"
+    },
+    "keywords": [
+        "powershell theme",
+        "theme",
+        "pwshmatt",
+        "dark theme"
+    ],
     "engines": {
         "vscode": "^1.54.0"
     },
