@@ -1,13 +1,14 @@
-# README
-## This is the README for your extension "pwshmatt-pwsh-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# pwshmatt-vscode-theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+Thank you for checking out my dark VS code theme designed primarily for PowerShell development. This theme targets a handful of PowerShell
+theme tokens that are unused by other VS code themes.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+This is my first attempt at creating my own VS code theme so I fully expect this extension will evolve over time as I begin to use it my
+day-to-day coding work.
 
-**Enjoy!**
+## License
+
+If you'd like to use this as a base for your future projects, the code base is using the GNU v3 license and you can find the source at the
+link below:
+
+[GitHub - pwshmatt-vscode-theme](https://github.com/pwshmatt/pwshmatt-vscode-theme)
